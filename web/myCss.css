@@ -4,9 +4,9 @@
 */
 
 .footer{
-    position: relative;
     bottom: 0;
     width: 100%;
+    position: relative;
 }
 #img{
     border-radius: 25px;
