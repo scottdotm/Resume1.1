@@ -55,7 +55,8 @@
                     <div class="col-md-2 col-md-4">
                         <div class="container">
                             <br>
-                            <img src="Me.jpg" alt="Scott" class="img-thumbnail" id="img">
+                            <!--<img src="Me.jpg" alt="Scott" class="img-thumbnail" id="img">-->
+                            <blockquote class="imgur-embed-pub" lang="en" data-id="NNUnKRT"><a href="//imgur.com/NNUnKRT">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
                         </div>
                     </div>
                 </div>
@@ -130,9 +131,9 @@
                             </div>
                         </div>
                     </div>
-                                            </div>
                 </div>
             </div>
+        </div>
         
         <footer class="footer">
             <div class="container">
